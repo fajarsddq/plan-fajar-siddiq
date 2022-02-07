@@ -1,4 +1,6 @@
 Rencana saya di tahun 2022 :
 - Memahami HTML
 - Memahami css
+  - Memahami Framework css :
+    - Boostrap
 - Memahami bahasa pemrograman JavaScript
